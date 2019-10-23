@@ -1,0 +1,35 @@
+
+            body{
+                    background-color: rgba(159, 199, 206, 0.616); 
+                    padding-left: 2%;
+                    padding-right: 2%;
+                    padding-top: 2%;
+                    
+                
+
+                }
+                input[type=radio]{
+                    -ms-transform: scale(1.5);
+                    -moz-transform: scale(1.5);
+                    -webkit-transform: scale(1.5);
+                    -o-transform: scale(1.5);
+                    transform: scale(1.5);
+                    padding: 10px;
+                }
+                #tableh{
+                    border-radius: 10px;
+                    border-left:solid;
+                    border-right:solid;
+                    border-bottom:solid;
+                    border-top:solid;
+                    
+                    margin-left: 2%;
+                }
+                #right{
+                    text-align: center;
+                    padding-left: 50px;
+                   padding-top: 50px;
+                   padding-right: 50px; 
+                   
+                }
+        
